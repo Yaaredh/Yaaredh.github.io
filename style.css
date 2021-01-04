@@ -1,0 +1,51 @@
+
+body {
+  background: rgb(224, 213, 108);
+}
+header {
+  background-color: rgb(255, 230, 230);
+}
+
+.name {
+  font-family: cursive;
+  font-size: 15px;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h3, h2, p {
+  text-align: center;
+}
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
+
+/*class selector*/
+.iid {
+  text-align: center;
+}
+ol {
+  list-style-position: inside;
+  text-align: center;
+}
+footer {
+  background-color: rgb(255, 230, 230);
+}
+a {
+  padding: 20px;
+}
+
+/*style links with pseudo classes */
+a:hover {
+  color: coral;
+}
+
